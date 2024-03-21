@@ -11,7 +11,7 @@
 
 <body class="antialiased">
     <div id='root'></div>
-    <h1>Hola</h1>
+    <h1>Holaa</h1>
 </body>
 
 </html>
